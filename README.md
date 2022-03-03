@@ -1,2 +1,2 @@
 # LuckySploit-Beta2.1
-This application was an exploit for roblox 
+This application was an exploit for roblox (Luck is the Owner)
